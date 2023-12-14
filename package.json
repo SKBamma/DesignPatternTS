@@ -1,0 +1,17 @@
+{
+  "name": "designpatternts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "designP": "nodemon design_patterns.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2"
+  }
+}
